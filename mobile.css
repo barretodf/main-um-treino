@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div.menu {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100vw;
+    padding: 0;
+}
+
+.menu_ul {
+    flex-direction: column;
+    width: 100%;
+    padding: 0;
+    gap: 5px;
+    margin-bottom: 10px;
+}
+
+.menu_li {
+    margin: 0;
+    padding: 0;
+
+}
+
+.menu a {
+    display: block;
+    border-radius: 0;
+    text-align: center;
+}

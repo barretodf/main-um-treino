@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+h1 {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.menu {
+    display: block;
+
+}
+
+.menu_ul {
+    margin: 10px;
+}
